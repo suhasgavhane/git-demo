@@ -2,7 +2,5 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
-
-To be honest GIT is awesome!!
-Suhas Gavhane
+##Website Contnets
+1. index.html
